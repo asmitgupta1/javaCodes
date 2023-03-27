@@ -7,7 +7,9 @@ public class App {
 		B obj1 = new B(12);
 		
 		System.out.println(obj1.getX());
-	
+		
+		obj1.india();
+		obj1.USA();
 
 	}
 

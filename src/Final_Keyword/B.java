@@ -15,6 +15,13 @@ public class B extends A{
 		return x;
 	}
 
+//	@Override
+//	public void india() {
+//		
+//		System.out.println("india printed from B Class");
+//	}
+	
+	
 	
 	
 	
